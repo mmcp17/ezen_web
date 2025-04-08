@@ -1,0 +1,23 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size: 16px;
+    font-weight: normal;
+}
+li {
+    list-style: none;
+}
+img {
+    vertical-align: top;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+* {
+    /* 박스 자동계산 속성 */
+    box-sizing: border-box;
+}
